@@ -1,0 +1,9 @@
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\bin\Debug\netcoreapp1.1\CourseProgramming.deps.json
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\bin\Debug\netcoreapp1.1\CourseProgramming.runtimeconfig.json
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\bin\Debug\netcoreapp1.1\CourseProgramming.runtimeconfig.dev.json
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\bin\Debug\netcoreapp1.1\CourseProgramming.dll
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\bin\Debug\netcoreapp1.1\CourseProgramming.pdb
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\obj\Debug\netcoreapp1.1\CourseProgramming.csprojResolveAssemblyReference.cache
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\obj\Debug\netcoreapp1.1\CourseProgramming.AssemblyInfo.cs
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\obj\Debug\netcoreapp1.1\CourseProgramming.dll
+c:\users\livs\documents\visual studio 2017\Projects\CourseProgramming\CourseProgramming\obj\Debug\netcoreapp1.1\CourseProgramming.pdb
